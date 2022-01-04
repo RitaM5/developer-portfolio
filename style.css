@@ -13,7 +13,8 @@ h1{
      }
 .half-1{width: 40%;
     padding-left:55px;
-    margin-left:5% ;}
+    margin-left:5% ;
+    text-align: justify;}
 
 .half-2{width: 50%;
     padding-left: 40px; 
@@ -45,7 +46,8 @@ h1{
     }
 
 .right{width: 60%;
-        padding-right:40px;}
+        padding-right:40px;
+        text-align: justify;}
 
 .link{text-decoration: none;
             background-color: orange;
@@ -95,12 +97,12 @@ footer{margin-top: 70px;
     .top-banner{flex-direction: column;}
     .half-2{margin-top: 35px;}
     .half-2 img{width: 80%;}
-
+    .anchor{padding: 15px 10px;}
     .banner-2{flex-direction: column-reverse;}
     .left{margin-top: 30px;}
     .left img{width: 120%;}
     .right{margin-left: 15%;}
-
+    .link{padding: 15px 10px;}
     .container{
         flex-direction: column;}
         .main-1{width: 90%;
